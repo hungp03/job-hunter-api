@@ -25,6 +25,7 @@ This project is a personal learning experience to explore Java backend developme
 **File Upload**
 
   * Upload resume when applying to a job (stored on local server)
+
 **Email Notifications**
 
   * Send job suggestion emails to users
@@ -40,7 +41,7 @@ This project is a personal learning experience to explore Java backend developme
 
 ## Known Limitations
 
-Since this is my first Spring Boot project, there are still many things to improve
+Since this is my first Spring Boot project, there are still many things to improve and there are still bugs left.
 
 ## License
 
