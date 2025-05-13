@@ -9,9 +9,11 @@ This project is a personal learning experience to explore Java backend developme
 **Authentication**
 
   * User registration and login (JWT-based authentication)
+    
 **Company & Job Listings**
   * View list of companies
   * View available job postings
+    
 **Job Applications**
   * Apply to jobs with an uploaded resume (stored locally)
   * View list of jobs the user has applied to
