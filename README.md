@@ -24,6 +24,7 @@ This project is a personal learning experience to explore Java backend developme
     * `ADMIN`: full access to manage users and jobs
     * `HR`: can post and manage jobs, resume
     * Regular users (no role): can view/apply to jobs
+      
 **File Upload**
 
   * Upload resume when applying to a job (stored on local server)
